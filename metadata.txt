@@ -1,0 +1,8 @@
+ip-172-31-91-204.ec2.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2022-03-01T03:31:59Z",
+  "InstanceProfileArn" : "arn:aws:iam::131666679548:instance-profile/S3-full-access",
+  "InstanceProfileId" : "AIPAR5J7SC36EHVOPCT4M"
+}
+webservers
